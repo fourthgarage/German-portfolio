@@ -9,6 +9,8 @@ My data science portfolio
 * Chose a threshold of 0.36 for logistic regression, because the problem is from medical field and I was trying to maximize recall
 * AUC = 0.84, Precision = 0.69, Recall = 0.71
 
+![](images/Roc%20diabetes.png)
+
 # [Project 2: Analysis of electronic store sales: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/analysis-of-electronics-store-sales)
 * Merged 12 months sales data into one csv-file and answered the questions:
 * What's the best selling month? How much profit was this month?
