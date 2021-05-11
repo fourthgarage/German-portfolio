@@ -17,5 +17,5 @@ My data science portfolio
 * What are the best selling product combinations?
 * What is the best selling product and why?
 
-![](https://github.com/fourthgarage/German_portfolio/blob/main/images/Histogramm1.png)
-![](https://github.com/fourthgarage/German_portfolio/blob/main/images/Histogramm2.png)
+![](/images/Histogramm1.png)
+![](images/Histogramm2.png)
