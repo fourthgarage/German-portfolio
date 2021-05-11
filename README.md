@@ -16,3 +16,6 @@ My data science portfolio
 * What is the best time to advertise to sell better?
 * What are the best selling product combinations?
 * What is the best selling product and why?
+
+![](https://github.com/fourthgarage/German_portfolio/blob/main/images/Histogramm1.png)
+![](https://github.com/fourthgarage/German_portfolio/blob/main/images/Histogramm2.png)
