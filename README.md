@@ -18,4 +18,3 @@ My data science portfolio
 * What is the best selling product and why?
 
 ![](/images/Histogramm1.png)
-![](images/Histogramm2.png)
