@@ -1,7 +1,7 @@
 # German_portfolio
 My data science portfolio
 
-# Project 1: Diabetes Prediction: Project Overview
+# [Project 1: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
 * Loaded Pima Indians Diabetes Database from Kaggle.
 * Visualized and analyzed the data, plotted a pairwise dependencies.
 * Fitted the model: Implemented a logistic regression algorithm. The error was minimized using gradient descent algorithm.
