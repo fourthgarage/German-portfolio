@@ -7,6 +7,7 @@ My data science portfolio
 * Построил график оттока учеников в зависимости от возраста
 
 ![](images/Kodland_2.png)
+![](images/kodland_2.png)
 
 # [Project 1: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
 * Loaded Pima Indians Diabetes Database from Kaggle.
