@@ -28,3 +28,9 @@ My data science portfolio
 * What is the best selling product and why?
 
 ![](/images/Histogramm1.png)
+
+# [Project 3: Bike sharing demand](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/bike-sharing-demand)
+* Visualized and analyzed the data, plotted a pairwise dependencies.
+* Used pipeline, preprocessing before fitting the model
+* Mean squared log error on test data = 0.23
+
