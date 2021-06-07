@@ -34,3 +34,4 @@ My data science portfolio
 * Used pipeline, preprocessing before fitting the model
 * Mean squared log error on test data = 0.23
 
+![](images/bike sharing.png)
