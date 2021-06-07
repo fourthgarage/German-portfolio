@@ -35,3 +35,6 @@ My data science portfolio
 * Mean squared log error on test data = 0.23
 
 ![](images/bikesharing.png)
+
+# [Project 4: Movie dataset creation](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/movie-dataset-creation)
+In this project i scrapped a Disney movies data from wikipedia using BeautifulSoup , cleaned the data, created dataset(csv file). Also created .json and .pickle files
