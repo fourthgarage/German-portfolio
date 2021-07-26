@@ -7,6 +7,8 @@ My data science portfolio
 * A graph of dropout of students has been built depending on age
 * The hypothesis was tested that children younger than 12 and older than 14 years are more likely to left the course
 
+![](/images/DropoutAnalysis.png)
+
 # [Project 2: Analysis of electronic store sales: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/analysis-of-electronics-store-sales)
 * Merged 12 months sales data into one csv-file and answered the questions:
 * What's the best selling month? How much profit was this month?
