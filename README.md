@@ -1,4 +1,4 @@
-# German_portfolio
+# German portfolio
 My data science portfolio
 
 # [Project 1: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
