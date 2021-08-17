@@ -4,6 +4,8 @@ My data science portfolio
 # [Project 1: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
 * In this project I researched English-language news about Russia for the last month and visualized the 50 most mentioned trends using word cloud
 
+![](/images/wordcloud_output.jpg)
+
 
 
 # [Project 2: Online school dropout analysis: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/Online-school-dropout-analysis)
