@@ -1,14 +1,22 @@
 # German-portfolio
 My data science portfolio
 
-# [Project 1: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
+# [Project 1: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
+* Loaded Pima Indians Diabetes Database from Kaggle.
+* Visualized and analyzed the data, plotted a pairwise dependencies.
+* Considered and compared metric methods of classification, logistic regression, random forest and SVM classification
+* Parzen window method, potential functions method, random forest, logistic regression, SVM
+* Chose AUC as a quality metric
+
+![](images/Roc%20diabetes.png)
+
+# [Project 2: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
 * In this project I researched English-language news about Russia for the last month and visualized the 50 most mentioned trends using word cloud
 
 ![](/images/wordcloud_output.jpg)
 
 
-
-# [Project 2: Online school dropout analysis: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/Online-school-dropout-analysis)
+# [Project 3: Online school dropout analysis: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/Online-school-dropout-analysis)
 * The data set fields are converted to the required type. Fields with a missing age value are removed from the dataset
 * A graph of dropout of students has been built depending on the course on which they study
 * A graph of dropout of students has been built depending on age
@@ -16,7 +24,7 @@ My data science portfolio
 
 ![](/images/DropoutAnalysis.png)
 
-# [Project 3: Analysis of electronic store sales: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/analysis-of-electronics-store-sales)
+# [Project 4: Analysis of electronic store sales: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/analysis-of-electronics-store-sales)
 * Merged 12 months sales data into one csv-file and answered the questions:
 * What's the best selling month? How much profit was this month?
 * Which city had the most sales?
@@ -26,14 +34,7 @@ My data science portfolio
 
 ![](/images/Histogramm1.png)
 
-# [Project 4: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
-* Loaded Pima Indians Diabetes Database from Kaggle.
-* Visualized and analyzed the data, plotted a pairwise dependencies.
-* Considered and compared metric methods of classification, logistic regression, random forest and SVM classification
-* Parzen window method, potential functions method, random forest, logistic regression, SVM
-* Chose AUC as a quality metric
 
-![](images/Roc%20diabetes.png)
 
 # [Project 5: Bike sharing demand](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/bike-sharing-demand)
 * Visualized and analyzed the data, plotted a pairwise dependencies.
