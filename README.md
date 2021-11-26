@@ -29,10 +29,9 @@ My data science portfolio
 # [Project 4: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
 * Loaded Pima Indians Diabetes Database from Kaggle.
 * Visualized and analyzed the data, plotted a pairwise dependencies.
-* Fitted the model: Implemented a logistic regression algorithm. The error was minimized using gradient descent algorithm.
-* Plotted ROC AUC curve, valuated model by precision and recall. Then plotted dependence of precision and recall on the threshold
-* Chose a threshold of 0.36 for logistic regression, because the problem is from medical field and I was trying to maximize recall
-* AUC = 0.84, Precision = 0.69, Recall = 0.71
+* Considered and compared metric methods of classification, logistic regression, random forest and SVM classification
+* Parzen window method, potential functions method, random forest, logistic regression, SVM
+* Chose AUC as a quality metric
 
 ![](images/Roc%20diabetes.png)
 
