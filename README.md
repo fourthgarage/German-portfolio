@@ -14,13 +14,13 @@ My data science portfolio
 * Decision Tree Classifier based on decision tree or on oblivious decision tree
 * AdaBoost Classifier for binary classification
 
-# [Project 2: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
+# [Project 3: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
 * In this project I researched English-language news about Russia for the last month and visualized the 50 most mentioned trends using word cloud
 
 ![](/images/wordcloud_output.jpg)
 
 
-# [Project 3: Online school dropout analysis: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/Online-school-dropout-analysis)
+# [Project 4: Online school dropout analysis: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/Online-school-dropout-analysis)
 * The data set fields are converted to the required type. Fields with a missing age value are removed from the dataset
 * A graph of dropout of students has been built depending on the course on which they study
 * A graph of dropout of students has been built depending on age
@@ -28,7 +28,7 @@ My data science portfolio
 
 ![](/images/DropoutAnalysis.png)
 
-# [Project 4: Analysis of electronic store sales: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/analysis-of-electronics-store-sales)
+# [Project 5: Analysis of electronic store sales: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/analysis-of-electronics-store-sales)
 * Merged 12 months sales data into one csv-file and answered the questions:
 * What's the best selling month? How much profit was this month?
 * Which city had the most sales?
@@ -40,12 +40,12 @@ My data science portfolio
 
 
 
-# [Project 5: Bike sharing demand](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/bike-sharing-demand)
+# [Project 6: Bike sharing demand](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/bike-sharing-demand)
 * Visualized and analyzed the data, plotted a pairwise dependencies.
 * Used pipeline, preprocessing before fitting the model
 * Mean squared log error on test data = 0.23
 
 ![](images/bikesharing.png)
 
-# [Project 6: Movie dataset creation](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/movie-dataset-creation)
+# [Project 7: Movie dataset creation](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/movie-dataset-creation)
 In this project i scrapped a Disney movies data from wikipedia using BeautifulSoup , cleaned the data, created dataset(csv file). Also created .json and .pickle files
