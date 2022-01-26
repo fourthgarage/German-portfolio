@@ -10,6 +10,10 @@ My data science portfolio
 
 ![](images/Roc%20diabetes.png)
 
+# [Project 2: Library of ML algorithms](https://github.com/fourthgarage/ML_algorithms)
+* Decision Tree Classifier based on decision tree or on oblivious decision tree
+* AdaBoost Classifier for binary classification
+
 # [Project 2: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
 * In this project I researched English-language news about Russia for the last month and visualized the 50 most mentioned trends using word cloud
 
