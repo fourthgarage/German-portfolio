@@ -24,6 +24,10 @@ My data science portfolio
 
 ![](/images/wordcloud_output.jpg)
 
+# [Project 4: Time series forecasting methods](https://github.com/fourthgarage/TimeSeries)
+* In this paper, some methods of adaptive time series forecasting are considered
+![](/images/TimeSeries.png)
+
 
 # [Project 4: Online school dropout analysis: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/Online-school-dropout-analysis)
 * The data set fields are converted to the required type. Fields with a missing age value are removed from the dataset
