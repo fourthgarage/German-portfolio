@@ -1,14 +1,9 @@
 # German-portfolio
 My data science portfolio
 
-# [Project 1: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
-* Loaded Pima Indians Diabetes Database from Kaggle.
-* Visualized and analyzed the data, plotted a pairwise dependencies.
-* Considered and compared metric methods of classification, logistic regression, random forest and SVM classification
-* Parzen window method, potential functions method, random forest, logistic regression, SVM
-* Chose AUC as a quality metric
-
-![](images/Roc%20diabetes.png)
+# [Project 1: Spam classification](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/spam-classification)
+* Preprocessed the data and built a dataset on the occurrence of words
+* Fitted naive Bayesian classifier from scratch
 
 # [Project 2: Library of ML algorithms](https://github.com/fourthgarage/ML_algorithms)
 * Decision Tree Classifier based on decision tree or on oblivious decision tree
@@ -18,6 +13,18 @@ My data science portfolio
 * Rotation Forest Classifier
 * Logistic Regression
 * Potential Functions Method for classification
+* Spectral clustering
+
+# [Project 3: Diabetes Prediction: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/diabetes-prediction)
+* Loaded Pima Indians Diabetes Database from Kaggle.
+* Visualized and analyzed the data, plotted a pairwise dependencies.
+* Considered and compared metric methods of classification, logistic regression, random forest and SVM classification
+* Parzen window method, potential functions method, random forest, logistic regression, SVM
+* Chose AUC as a quality metric
+
+![](images/Roc%20diabetes.png)
+
+
 
 # [Project 3: Actual trends about Russia in the English-language news: Project Overview](https://github.com/fourthgarage/data-science-and-fried-peaches/tree/actual-trends-about-Russia-in-the-English-language-press)
 * In this project I researched English-language news about Russia for the last month and visualized the 50 most mentioned trends using word cloud
